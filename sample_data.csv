@@ -1,0 +1,5 @@
+﻿Periodo;Dia;EquipoSim;Tipo;Subtipo;Marca;Gama;Ingreso;Costo;margen;Tipo_Venta;CanalVenta;CadenaDealer;Departamento;Canal;SubCanal;Cluster
+202401;1;Equipo;Celular;Smartphone;samsung;5. premium;2126,47;2015,47;111;reno;tiendas propias;tp mega plaza;lima;tiendas;tiendas propias;cluster a
+202401;20;Equipo;Celular;Smartphone;apple;4. high;1221,14;1110,14;111;vr;grandes tiendas;saga;ucayali;retail;grandes tiendas;cluster c
+202401;14;Equipo;Celular;Smartphone;apple;4. high;1199,08;1079,08;120;vr;grandes tiendas;tottus;san martin;retail;grandes tiendas;cluster c
+202401;27;Equipo;Celular;Smartphone;xiaomi;4. high;1168,28;994,28;174;vr;islas;isla;ica;islas;islas;cluster a
